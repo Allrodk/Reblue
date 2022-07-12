@@ -42,5 +42,4 @@ function conversao(t, e) {
   }
 }
 
-let tempNova = conversao(temp, escala);
-console.log(tempNova);
+console.log(conversao(temp, escala));
